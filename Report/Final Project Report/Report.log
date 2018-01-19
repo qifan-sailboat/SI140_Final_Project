@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.19)  19 JAN 2018 13:12
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/W32TeX) (preloaded format=pdflatex 2017.9.19)  19 JAN 2018 16:31
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -426,34 +426,34 @@ MS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 (10 \OMS/cmsy/m/n/10 ^^@ [] \OML/cmm/m/it/10
 <10_2.png, id=3, 505.89pt x 505.89pt>
 File: 10_2.png Graphic file (type png)
 <use 10_2.png>
-Package pdftex.def Info: 10_2.png  used on input line 72. on input line 72.
+Package pdftex.def Info: 10_2.png  used on input line 71. on input line 71.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
-e 72.
+e 71.
 <10_3.png, id=4, 505.89pt x 505.89pt>
 File: 10_3.png Graphic file (type png)
 <use 10_3.png>
-Package pdftex.def Info: 10_3.png  used on input line 77. on input line 77.
+Package pdftex.def Info: 10_3.png  used on input line 76. on input line 76.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
-e 77.
+e 76.
 <10_4.png, id=5, 505.89pt x 505.89pt>
 File: 10_4.png Graphic file (type png)
 <use 10_4.png>
-Package pdftex.def Info: 10_4.png  used on input line 82. on input line 82.
+Package pdftex.def Info: 10_4.png  used on input line 81. on input line 81.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
-e 82.
+e 81.
 <10_5.png, id=6, 505.89pt x 505.89pt>
 File: 10_5.png Graphic file (type png)
 <use 10_5.png>
-Package pdftex.def Info: 10_5.png  used on input line 87. on input line 87.
+Package pdftex.def Info: 10_5.png  used on input line 86. on input line 86.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
-e 87.
+e 86.
 <10_Overall.png, id=7, 462.528pt x 346.896pt>
 File: 10_Overall.png Graphic file (type png)
 <use 10_Overall.png>
-Package pdftex.def Info: 10_Overall.png  used on input line 92. on input line 9
-2.
+Package pdftex.def Info: 10_Overall.png  used on input line 91. on input line 9
+1.
 Package pdftex.def Info: Requested size: 176.39764pt x 151.20024pt on input lin
-e 92.
+e 91.
 
 Overfull \hbox (22.67259pt too wide) detected at line 98
 \OML/cmm/m/it/10 X[]\OMS/cmsy/m/n/10 j\OML/cmm/m/it/10 X[]; X[]; :::; X[] \OMS/
@@ -463,57 +463,61 @@ MS/cmsy/m/n/10 ^^B \OT1/cmr/m/n/10 (10 \OMS/cmsy/m/n/10 ^^@ [] \OML/cmm/m/it/10
 /10 ^^T \OT1/cmr/m/n/10 4)
  []
 
+[1{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./10_1.png> <./10_2.png> <./10_3.png>]
+Underfull \vbox (badness 1924) has occurred while \output is active []
+
+
 (c:/texlive/2017/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-) [1{c:/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
-
-
- <./10_1.png> <./10_2.png>]
+)
 LaTeX Font Info:    Try loading font information for OT1+pcr on input line 118.
 
 
 (c:/texlive/2017/texmf-dist/tex/latex/psnfss/ot1pcr.fd
 File: ot1pcr.fd 2001/06/04 font definitions for OT1/pcr.
-) (./Stimulation_1.py
+) (./Stimulation.py
 LaTeX Font Info:    Font shape `OT1/pcr/bx/n' in size <8> not available
 (Font)              Font shape `OT1/pcr/b/n' tried instead on input line 1.
 )
-<output_1.png, id=28, 505.89pt x 505.89pt>
+<output_1.png, id=29, 505.89pt x 505.89pt>
 File: output_1.png Graphic file (type png)
 <use output_1.png>
 Package pdftex.def Info: output_1.png  used on input line 124. on input line 12
 4.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
 e 124.
-<output_2.png, id=29, 505.89pt x 505.89pt>
+<output_2.png, id=30, 505.89pt x 505.89pt>
 File: output_2.png Graphic file (type png)
 <use output_2.png>
 Package pdftex.def Info: output_2.png  used on input line 131. on input line 13
 1.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
 e 131.
-<output_3.png, id=30, 505.89pt x 505.89pt>
+<output_3.png, id=31, 505.89pt x 505.89pt>
 File: output_3.png Graphic file (type png)
 <use output_3.png>
 Package pdftex.def Info: output_3.png  used on input line 138. on input line 13
 8.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
 e 138.
-<output_4.png, id=31, 505.89pt x 505.89pt>
+<output_4.png, id=32, 505.89pt x 505.89pt>
 File: output_4.png Graphic file (type png)
 <use output_4.png>
 Package pdftex.def Info: output_4.png  used on input line 145. on input line 14
 5.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
 e 145.
-<output_5.png, id=32, 505.89pt x 505.89pt>
+<output_5.png, id=33, 505.89pt x 505.89pt>
 File: output_5.png Graphic file (type png)
 <use output_5.png>
 Package pdftex.def Info: output_5.png  used on input line 153. on input line 15
 3.
 Package pdftex.def Info: Requested size: 176.40028pt x 151.20465pt on input lin
 e 153.
-<output.png, id=33, 462.528pt x 346.896pt>
+<output.png, id=34, 462.528pt x 346.896pt>
 File: output.png Graphic file (type png)
 <use output.png>
 Package pdftex.def Info: output.png  used on input line 159. on input line 159.
@@ -523,8 +527,7 @@ e 159.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [2 <./10_3.png> <./10_4.png> <./10_5.png> <./10_Overall.png> <./output_1.png>]
-
+ [2 <./10_4.png> <./10_5.png> <./10_Overall.png> <./output_1.png>]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
 <Posterior_1.png, id=44, 505.89pt x 505.89pt>
@@ -572,12 +575,12 @@ e 204.
 <Stimulation.png, id=50, 462.528pt x 346.896pt>
 File: Stimulation.png Graphic file (type png)
 <use Stimulation.png>
-Package pdftex.def Info: Stimulation.png  used on input line 214. on input line
- 214.
+Package pdftex.def Info: Stimulation.png  used on input line 215. on input line
+ 215.
 Package pdftex.def Info: Requested size: 176.39764pt x 201.6021pt on input line
- 214.
+ 215.
 
-Underfull \vbox (badness 5741) has occurred while \output is active []
+Underfull \vbox (badness 6364) has occurred while \output is active []
 
  [3 <./output_2.png> <./output_3.png> <./output_4.png> <./output_5.png> <./outp
 ut.png> <./Posterior_1.png>]
@@ -586,27 +589,28 @@ LaTeX Warning: Text page 4 contains only floats.
 
 [4 <./Posterior_2.png> <./Posterior_3.png> <./Posterior_4.png> <./Posterior_5.p
 ng> <./Posterior.png> <./Stimulation.png>]
-Overfull \hbox (17.42346pt too wide) in paragraph at lines 253--258
+Overfull \hbox (17.42346pt too wide) in paragraph at lines 255--260
 []$[]$ \OT1/ptm/m/n/10 https://www.zhihu.com/question/22625187/answer/85530416 
 
  []
 
 
-Overfull \hbox (1.35323pt too wide) in paragraph at lines 253--258
-[]$ \OT1/ptm/m/n/10 https://github.com/KevinZhang199803/SI140[]Final[]Project 
+Overfull \hbox (14.41301pt too wide) in paragraph at lines 255--260
+[]$ \OT1/ptm/m/n/10 https://github.com/KevinZhang199803/SI140[]Final[]Project.g
+it 
  []
 
 [5
 
 ] (./Report.aux) ) 
 Here is how much of TeX's memory you used:
- 5885 strings out of 492990
- 83363 string characters out of 6136334
- 249807 words of memory out of 5000000
+ 5884 strings out of 492990
+ 83346 string characters out of 6136334
+ 250747 words of memory out of 5000000
  9323 multiletter control sequences out of 15000+600000
  42333 words of font info for 90 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,16n,50p,535b,1870s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,16n,50p,538b,1452s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc}<c:/t
 exlive/2017/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/20
 17/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2017/texmf-
@@ -621,7 +625,7 @@ ts/type1/urw/courier/ucrr8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/tim
 es/utmb8a.pfb><c:/texlive/2017/texmf-dist/fonts/type1/urw/times/utmbi8a.pfb><c:
 /texlive/2017/texmf-dist/fonts/type1/urw/times/utmr8a.pfb><c:/texlive/2017/texm
 f-dist/fonts/type1/urw/times/utmri8a.pfb>
-Output written on Report.pdf (5 pages, 716668 bytes).
+Output written on Report.pdf (5 pages, 716884 bytes).
 PDF statistics:
  120 PDF objects out of 1000 (max. 8388607)
  59 compressed objects within 1 object stream

@@ -1,8 +1,6 @@
 import random
 import sys
-
 f = open("output.csv","w")
-
 def Rp(value,num):
 	value_left = value
 	result = []
